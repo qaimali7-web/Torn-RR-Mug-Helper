@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         RR Mug Helper
-// @version      5.9
+// @version      2.0
 // @description  Mug Everyone!!!
 // @author       Qaim [2370947]
 // @match        https://www.torn.com/page.php?sid=russianRoulette*
 // @grant        GM_xmlhttpRequest
 // @connect      api.torn.com
-// @downloadURL https://update.greasyfork.org/scripts/563949/RR%20Mug%20Helper.user.js
-// @updateURL https://update.greasyfork.org/scripts/563949/RR%20Mug%20Helper.meta.js
+// @downloadURL https://github.com/qaimali7-web/Torn-RR-Mug-Helper/blob/main/rr_mug.js
+// @updateURL   https://github.com/qaimali7-web/Torn-RR-Mug-Helper/blob/main/rr_mug.js
 // ==/UserScript==
 
 (function() {
