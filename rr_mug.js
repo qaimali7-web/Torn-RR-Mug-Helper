@@ -6,7 +6,6 @@
 // @match        https://www.torn.com/page.php?sid=russianRoulette*
 // @grant        GM_xmlhttpRequest
 // @connect      api.torn.com
-// @namespace https://greasyfork.org/users/1338514
 // @downloadURL https://update.greasyfork.org/scripts/563949/RR%20Mug%20Helper.user.js
 // @updateURL https://update.greasyfork.org/scripts/563949/RR%20Mug%20Helper.meta.js
 // ==/UserScript==
